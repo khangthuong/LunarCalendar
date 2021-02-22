@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="height_of_detail">170.00dp</dimen>
+    <dimen name="mo_year_btn_marginTop">30.00dp</dimen>
+    <dimen name="text_size_mo_year_btn">19sp</dimen>
+    <dimen name="text_size_date">170sp</dimen>
+    <dimen name="text_size_day">40sp</dimen>
+    <dimen name="text_size_tietkhi">20sp</dimen>
+    <dimen name="text_size_danhngon">18sp</dimen>
+    <dimen name="text_size_auth">15sp</dimen>
+    <dimen name="text_size_row_weather">25sp</dimen>
+    <dimen name="text_size_row_tem">18sp</dimen>
+    <dimen name="txtDanhngon_marginTop">120.00dp</dimen>
+    <dimen name="_120sdp">100.00dp</dimen>
+
+</resources>

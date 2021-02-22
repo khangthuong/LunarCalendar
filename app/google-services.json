@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428971875758",
+    "project_id": "lunarcalendar-48aea",
+    "storage_bucket": "lunarcalendar-48aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428971875758:android:5f8b51996a4e61f31ebc3f",
+        "android_client_info": {
+          "package_name": "com.example.lunarcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428971875758-a46c51qde57sdsu3f40239mirsp2qdef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lunarcalendar",
+            "certificate_hash": "bec59830154ac179870d62a4e5b2fb7e398b2597"
+          }
+        },
+        {
+          "client_id": "428971875758-vqr13bg6nnj9t75tgs4meo2nm1hmsgpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTqZ4VxWOsvYQMB4rJd35TCIUyZvHLio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428971875758-vqr13bg6nnj9t75tgs4meo2nm1hmsgpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
